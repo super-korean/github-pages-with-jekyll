@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Dumpster Diving in a Dumpster Fire. "
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm a guy who does stuff sometimes 
